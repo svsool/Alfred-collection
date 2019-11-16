@@ -674,6 +674,8 @@ Sharing, suggestions and contributions are always welcome!
 
 * [Evernote Snippets](https://github.com/packal/repository/raw/master/com.piszek.alfred.snippets/alfred-evernote-snippets.alfredworkflow) - Evernote notes as snippets in Alfred
 
+* [ExplainShell Workflow](https://github.com/packal/repository/raw/master/com.alfredapp.svsool.explainshell/explain_shell.alfredworkflow) - Write down a command-line to see the help text that matches each argument
+
 * [ExpanDrive Toolkit](https://github.com/packal/repository/raw/master/com.customct.ExpanDrive/expandrivetoolkit.alfredworkflow) - Toolbox of function to work with ExpanDrive
 
 * [Expand Link](https://github.com/packal/repository/raw/master/com.mattbanks.expandlink/expand_link.alfredworkflow) - Expands shortened link and copies to clipboard
